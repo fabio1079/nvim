@@ -11,6 +11,6 @@ Make a folder named nvim under ~/.config
 mkdir -p ~/.config/nvim
 ```
 
-And clone this repository, then open nvim, packer will automatically download plugins.
+And clone this repository, then open nvim, lazy will automatically download plugins.
 
 Then just close and reopen nvim.
