@@ -41,3 +41,8 @@ require("lspconfig").tailwindcss.setup {
   capabilities = capabilities,
 }
 
+require("lspconfig").svelte.setup {
+  capabilities = capabilities,
+  filetypes = { "svelte", "html" },
+}
+
