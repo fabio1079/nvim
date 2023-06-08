@@ -2,6 +2,8 @@
 
 My personal nvim configurations
 
+This configurations are most based on the videos of [@typecraft_dev](https://www.youtube.com/@typecraft_dev)
+
 ## How to install
 
 Make a folder named nvim under ~/.config
